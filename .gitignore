@@ -1,0 +1,13 @@
+# VIM ctags
+src/tags
+
+PNGs and PostScript folders
+png_ps
+
+results/
+*.7z
+experiments*/
+
+*.swp
+/cvrp
+build/

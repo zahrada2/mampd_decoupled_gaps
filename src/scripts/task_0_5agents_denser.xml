@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <agents>
+        <agent id="0" start.i="41" start.j="159" goal.i="41" goal.j="159"/>
+        <agent id="1" start.i="6" start.j="1" goal.i="6" goal.j="1"/>
+        <agent id="2" start.i="1" start.j="159" goal.i="1" goal.j="159"/>
+        <agent id="3" start.i="61" start.j="1" goal.i="61" goal.j="1"/>
+        <agent id="4" start.i="16" start.j="159" goal.i="16" goal.j="159"/>
+    </agents>
+    <targets>
+        <target id="0" i="49" j="89"/>
+        <target id="1" i="46" j="77"/>
+        <target id="2" i="23" j="60"/>
+        <target id="3" i="19" j="108"/>
+        <target id="4" i="34" j="75"/>
+        <target id="5" i="61" j="28"/>
+        <target id="6" i="34" j="98"/>
+        <target id="7" i="43" j="71"/>
+        <target id="8" i="58" j="35"/>
+        <target id="9" i="55" j="102"/>
+        <target id="10" i="38" j="61"/>
+        <target id="11" i="52" j="110"/>
+        <target id="12" i="16" j="65"/>
+        <target id="13" i="58" j="89"/>
+        <target id="14" i="16" j="65"/>
+        <target id="15" i="37" j="99"/>
+        <target id="16" i="20" j="99"/>
+        <target id="17" i="37" j="37"/>
+        <target id="18" i="49" j="103"/>
+        <target id="19" i="28" j="85"/>
+        <target id="20" i="25" j="101"/>
+        <target id="21" i="52" j="40"/>
+        <target id="22" i="49" j="26"/>
+        <target id="23" i="25" j="62"/>
+        <target id="24" i="37" j="28"/>
+    </targets>
+</root>
